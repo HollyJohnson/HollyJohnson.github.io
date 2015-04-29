@@ -1,24 +1,38 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430238154274">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430290609152">
   <folder name="css">
-    <file name="site_global.css" crc="422415861"/>
-    <file name="master_a-master.css" crc="3886600871" ref="pixar-brochure:index:contact:illustration:graphic-design"/>
-    <file name="pixar-brochure.css" crc="33888747" ref="pixar-brochure"/>
-    <file name="index.css" crc="323960679" ref="index"/>
-    <file name="contact.css" crc="461766440" ref="contact"/>
-    <file name="illustration.css" crc="4077408032" ref="illustration"/>
-    <file name="graphic-design.css" crc="3903934104" ref="graphic-design"/>
+    <file name="site_global.css" crc="438240654"/>
+    <file name="master_a-master.css" crc="3997565043" ref="half-past-whenever:uh-huh,-honey:contact:illustration:robert-downey,-jr:e4:explosed:index:jolie:gray-area:pixar-brochure:pure-pull:stop-wildlife-crime:king:graphic-design:shatter:lotr:bound---brewed"/>
+    <file name="half-past-whenever.css" crc="176570001" ref="half-past-whenever"/>
+    <file name="uh-huh_-honey.css" crc="3805778965" ref="uh-huh,-honey"/>
+    <file name="contact.css" crc="319222478" ref="contact"/>
+    <file name="illustration.css" crc="10914176" ref="illustration"/>
+    <file name="robert-downey_-jr.css" crc="3812855456" ref="robert-downey,-jr"/>
+    <file name="e4.css" crc="212001276" ref="e4"/>
+    <file name="explosed.css" crc="468716973" ref="explosed"/>
+    <file name="index.css" crc="4286613606" ref="index"/>
+    <file name="jolie.css" crc="4181815677" ref="jolie"/>
+    <file name="gray-area.css" crc="219164273" ref="gray-area"/>
+    <file name="pixar-brochure.css" crc="4176240735" ref="pixar-brochure"/>
+    <file name="pure-pull.css" crc="493036567" ref="pure-pull"/>
+    <file name="stop-wildlife-crime.css" crc="4224534795" ref="stop-wildlife-crime"/>
+    <file name="king.css" crc="4094446964" ref="king"/>
+    <file name="graphic-design.css" crc="288724441" ref="graphic-design"/>
+    <file name="shatter.css" crc="3906780866" ref="shatter"/>
+    <file name="lotr.css" crc="366872920" ref="lotr"/>
+    <file name="bound---brewed.css" crc="4032565248" ref="bound---brewed"/>
   </folder>
   <folder name="assets">
     <file name="hj_personalwebsite" crc="3805778689" mt="1427066647000"/>
+    <file name="resumepdf.pdf" crc="4204672244" mt="1430282732000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="museutils.js" crc="521960461" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:graphic-design:pixar-brochure:illustration"/>
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="museutils.js" crc="521960461" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
     <file name="jquery.scrolleffects.js" crc="4038615763" ref="index:contact"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
     <file name="webpro.js" crc="220831917" ref="contact"/>
     <file name="form_check.php" crc="218543696" ref="contact"/>
     <file name="form_throttle.php" crc="3988545917" ref="contact"/>
@@ -27,40 +41,28 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3920974435" ref="index"/>
-    <file name="menu-vector smart objectc.png" crc="4174674059" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="blank.gif" crc="4208392903" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u145.png" crc="52163556" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u145-r.png" crc="3815297986" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u145-a.png" crc="3815297986" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u161.png" crc="437585822" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u161-r.png" crc="4163326100" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u161-a.png" crc="4163326100" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u169.png" crc="4019987262" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u169-r.png" crc="7750178" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u169-a.png" crc="7750178" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u177.png" crc="418042783" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u177-r.png" crc="4291818220" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u177-a.png" crc="4291818220" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u183.png" crc="111287847" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u183-r.png" crc="161095889" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u183-a.png" crc="161095889" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
+    <file name="menu-vector smart objectc.png" crc="4174674059" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="blank.gif" crc="4208392903" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u145.png" crc="52163556" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u145-r.png" crc="3815297986" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u145-a.png" crc="3815297986" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u169.png" crc="4019987262" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u169-r.png" crc="7750178" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u169-a.png" crc="7750178" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u177.png" crc="418042783" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u177-r.png" crc="4291818220" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u177-a.png" crc="4291818220" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u183.png" crc="111287847" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u183-r.png" crc="161095889" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u183-a.png" crc="161095889" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
     <file name="skills-featureimagec.png" crc="3999097122" ref="index"/>
     <file name="u406-4.png" crc="513386938" ref="index"/>
     <file name="u409-6.png" crc="394140715" ref="index"/>
     <file name="u410-4.png" crc="219274512" ref="index"/>
     <file name="skills-featureimage copyc.png" crc="4078693662" ref="index"/>
     <file name="u413-4.png" crc="51743481" ref="index"/>
-    <file name="skills-i’m interested!c.png" crc="204479195" ref="index"/>
-    <file name="skills-lorem ipsum dolor sit amet, consectetur adipisicing elit, sed dc.png" crc="4226020856" ref="index"/>
-    <file name="skills-rectangle 4c.png" crc="3866492230" ref="index"/>
-    <file name="skills-hey, learn morec.png" crc="149796002" ref="index"/>
-    <file name="photo1.jpg" crc="4076970488" ref="index"/>
-    <file name="u558-4.png" crc="3767923948" ref="index"/>
-    <file name="u562_states.png" crc="404283475" ref="index"/>
-    <file name="u562_states-r.png" crc="273388038" ref="index"/>
-    <file name="portfolio-work bg!c.png" crc="275606511" ref="index"/>
-    <file name="u1037-4.png" crc="4197733400" ref="index"/>
     <file name="u565-4.png" crc="4117943568" ref="index"/>
+    <file name="u567-6.png" crc="236593330" ref="index"/>
     <file name="pasted svg 1262x110.svg" crc="4080361657" ref="index"/>
     <file name="pasted svg 1262x110_poster_.png" crc="57351131" ref="index"/>
     <file name="pasted svg 1262x1102.svg" crc="4124305578" ref="index"/>
@@ -84,7 +86,19 @@
     <file name="u1892-4.png" crc="496875564" ref="index"/>
     <file name="u1894-4.png" crc="186098884" ref="index"/>
     <file name="u1896-4.png" crc="65109407" ref="index"/>
-    <file name="u1898-13.png" crc="4036665165" ref="index"/>
+    <file name="u1898-6.png" crc="4110879203" ref="index"/>
+    <file name="skills-i’m interested!c.png" crc="204479195" ref="index"/>
+    <file name="skills-lorem ipsum dolor sit amet, consectetur adipisicing elit, sed dc.png" crc="4226020856" ref="index"/>
+    <file name="skills-rectangle 4c.png" crc="3866492230" ref="index"/>
+    <file name="skills-hey, learn morec.png" crc="149796002" ref="index"/>
+    <file name="photo1.jpg" crc="4076970488" ref="index"/>
+    <file name="u558-4.png" crc="3767923948" ref="index"/>
+    <file name="u559-13.png" crc="342981325" ref="index"/>
+    <file name="u562_states.png" crc="404283475" ref="index"/>
+    <file name="u562_states-r.png" crc="273388038" ref="index"/>
+    <file name="portfolio-work bg!c.png" crc="275606511" ref="index"/>
+    <file name="u1037-4.png" crc="4197733400" ref="index"/>
+    <file name="u1038-6.png" crc="4045378324" ref="index"/>
     <file name="gdbutton-normal.png" crc="3992945982" ref="index"/>
     <file name="gdbutton-rollover.jpg" crc="4287058390" ref="index"/>
     <file name="gdbutton-mouse down.jpg" crc="4287058390" ref="index"/>
@@ -127,14 +141,14 @@
     <file name="contactbutton-normal.jpg" crc="3806237177" ref="index:graphic-design:illustration"/>
     <file name="contactbutton-rollover.jpg" crc="459890787" ref="index:graphic-design:illustration"/>
     <file name="contactbutton-mouse down.jpg" crc="459890787" ref="index:graphic-design:illustration"/>
-    <file name="u336-4.png" crc="3883772252" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u318-4.png" crc="4132408675" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="footer-linked in!c.png" crc="365942722" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="footer-pinterest!c.png" crc="190988052" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="footer-email!c.png" crc="310997583" ref="index:graphic-design:contact:pixar-brochure:illustration"/>
-    <file name="u1409-8.png" crc="96212337" ref="graphic-design"/>
+    <file name="u336-4.png" crc="3883772252" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u318-4.png" crc="4132408675" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="footer-linked in!c.png" crc="365942722" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="footer-pinterest!c.png" crc="190988052" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="footer-email!c.png" crc="310997583" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="u1409-8.png" crc="147750008" ref="graphic-design"/>
     <file name="gd_app.jpg" crc="3999161984" ref="graphic-design"/>
-    <file name="gd_rhino.jpg" crc="139403916" ref="graphic-design"/>
+    <file name="gd_rhino.jpg" crc="4001397679" ref="graphic-design"/>
     <file name="gd_boundbrewed.jpg" crc="454354259" ref="graphic-design"/>
     <file name="brochurecover2.jpg" crc="4025698710" ref="graphic-design"/>
     <file name="gd_fromeden.jpg" crc="313966424" ref="graphic-design"/>
@@ -144,8 +158,8 @@
     <file name="gd_franco.jpg" crc="3769284614" ref="graphic-design"/>
     <file name="gd_cellad.jpg" crc="4035704115" ref="graphic-design"/>
     <file name="gd_btarticle.jpg" crc="281513539" ref="graphic-design"/>
-    <file name="featureimage.jpg" crc="3888825082" ref="contact"/>
-    <file name="u2214-4.png" crc="4060494522" ref="contact"/>
+    <file name="contactimage.jpg" crc="225372038" ref="contact"/>
+    <file name="u2214-4.png" crc="410546874" ref="contact"/>
     <file name="u2269.png" crc="155426974" ref="contact"/>
     <file name="u2269-ferr.png" crc="3803323816" ref="contact"/>
     <file name="u2274.png" crc="234327328" ref="contact"/>
@@ -156,19 +170,45 @@
     <file name="u2267-17-fs.png" crc="242434326" ref="contact"/>
     <file name="u2265.png" crc="4182863842" ref="contact"/>
     <file name="u2265-ferr.png" crc="319016066" ref="contact"/>
-    <file name="pixarbrochure-about bgc.png" crc="4183398219" ref="pixar-brochure"/>
-    <file name="pixarbrochure-pixarfeaturec.png" crc="3870198751" ref="pixar-brochure"/>
-    <file name="u1408-10.png" crc="3837795618" ref="pixar-brochure"/>
-    <file name="graphicdesignbutton-normal.jpg" crc="3897037631" ref="pixar-brochure"/>
-    <file name="graphicdesignbutton-rollover.jpg" crc="116084028" ref="pixar-brochure"/>
-    <file name="graphicdesignbutton-mouse down.jpg" crc="116084028" ref="pixar-brochure"/>
-    <file name="illustration button-normal.jpg" crc="3953641793" ref="pixar-brochure"/>
-    <file name="illustration button-rollover.jpg" crc="3976045858" ref="pixar-brochure"/>
-    <file name="illustration button-mouse down.jpg" crc="3976045858" ref="pixar-brochure"/>
+    <file name="u2433-8.png" crc="225867731" ref="contact"/>
+    <file name="resumebutton-normal2.jpg" crc="3895167090" ref="contact"/>
+    <file name="resumebutton-rollover2.jpg" crc="3867802933" ref="contact"/>
+    <file name="resumebutton-down.jpg" crc="3867802933" ref="contact"/>
+    <file name="resumebutton-active.jpg" crc="3867802933" ref="contact"/>
+    <file name="digitalportfoliobutton-normal2.jpg" crc="4196548943" ref="contact"/>
+    <file name="digitalportfoliobutton-rollover2.jpg" crc="126609045" ref="contact"/>
+    <file name="digitalportfoliobutton-down.jpg" crc="126609045" ref="contact"/>
+    <file name="pixarbrochure-about bgc.png" crc="4183398219" ref="pixar-brochure:stop-wildlife-crime:bound---brewed"/>
+    <file name="u1408-10.png" crc="3943993535" ref="pixar-brochure"/>
+    <file name="mu4.jpg" crc="338289603" ref="pixar-brochure"/>
+    <file name="1.jpg" crc="405822322" ref="pixar-brochure"/>
+    <file name="2.jpg" crc="371190849" ref="pixar-brochure"/>
+    <file name="3.jpg" crc="314165245" ref="pixar-brochure"/>
+    <file name="4.jpg" crc="442615692" ref="pixar-brochure"/>
+    <file name="5.jpg" crc="3886778277" ref="pixar-brochure"/>
+    <file name="6.jpg" crc="4044486102" ref="pixar-brochure"/>
+    <file name="7.jpg" crc="251830361" ref="pixar-brochure"/>
+    <file name="8.jpg" crc="250114357" ref="pixar-brochure"/>
+    <file name="9.jpg" crc="4184710814" ref="pixar-brochure"/>
+    <file name="10.jpg" crc="3949606670" ref="pixar-brochure"/>
+    <file name="11.jpg" crc="155272929" ref="pixar-brochure"/>
+    <file name="12-13.jpg" crc="4098367857" ref="pixar-brochure"/>
+    <file name="14.jpg" crc="352125113" ref="pixar-brochure"/>
+    <file name="15.jpg" crc="4150294009" ref="pixar-brochure"/>
+    <file name="16.jpg" crc="3767062423" ref="pixar-brochure"/>
+    <file name="mu2.jpg" crc="304637213" ref="pixar-brochure"/>
+    <file name="mu1.jpg" crc="18748342" ref="pixar-brochure"/>
+    <file name="mu3.jpg" crc="3846973354" ref="pixar-brochure"/>
+    <file name="graphicdesignbutton-normal.jpg" crc="3897037631" ref="pixar-brochure:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="graphicdesignbutton-rollover.jpg" crc="116084028" ref="pixar-brochure:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="graphicdesignbutton-mouse down.jpg" crc="116084028" ref="pixar-brochure:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="illustration button-normal.jpg" crc="3953641793" ref="pixar-brochure:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="illustration button-rollover.jpg" crc="3976045858" ref="pixar-brochure:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
+    <file name="illustration button-mouse down.jpg" crc="3976045858" ref="pixar-brochure:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed"/>
     <file name="u1988-10.png" crc="3798811609" ref="illustration"/>
     <file name="illus_e4.jpg" crc="3780066561" ref="illustration"/>
     <file name="illus_beard.jpg" crc="371602412" ref="illustration"/>
-    <file name="illus_corky.jpg" crc="120041455" ref="illustration"/>
+    <file name="illus_corky.jpg" crc="3850330916" ref="illustration"/>
     <file name="illus_bee.jpg" crc="452144318" ref="illustration"/>
     <file name="illus_lion.jpg" crc="3861519022" ref="illustration"/>
     <file name="illus_rdj.jpg" crc="259183185" ref="illustration"/>
@@ -177,10 +217,63 @@
     <file name="illus_eye.jpg" crc="4216009440" ref="illustration"/>
     <file name="illus_monica.jpg" crc="57116362" ref="illustration"/>
     <file name="illust_lotr.jpg" crc="4220478769" ref="illustration"/>
+    <file name="u2452-19.png" crc="28834407" ref="pure-pull"/>
+    <file name="corky.jpg" crc="398256012" ref="pure-pull"/>
+    <file name="u2485-10.png" crc="52298188" ref="explosed"/>
+    <file name="explosed.jpg" crc="143425920" ref="explosed"/>
+    <file name="u2509-9.png" crc="4222597332" ref="e4"/>
+    <file name="e4.jpg" crc="3909748369" ref="e4"/>
+    <file name="u2531-10.png" crc="305074192" ref="king"/>
+    <file name="king.jpg" crc="429660466" ref="king"/>
+    <file name="u2551-10.png" crc="4128201358" ref="jolie"/>
+    <file name="jolie.jpg" crc="55055289" ref="jolie"/>
+    <file name="u2575-10.png" crc="4147728424" ref="half-past-whenever"/>
+    <file name="clock3.jpg" crc="345240614" ref="half-past-whenever"/>
+    <file name="u2597-10.png" crc="4038248324" ref="shatter"/>
+    <file name="shatter_digital.jpg" crc="122221380" ref="shatter"/>
+    <file name="shatter_graphite.jpg" crc="4191259805" ref="shatter"/>
+    <file name="u2627-10.png" crc="207152179" ref="uh-huh,-honey"/>
+    <file name="uhhuhhoney.jpg" crc="534042554" ref="uh-huh,-honey"/>
+    <file name="u2648-8.png" crc="4043832137" ref="robert-downey,-jr"/>
+    <file name="rdj.jpg" crc="4037034242" ref="robert-downey,-jr"/>
+    <file name="u2669-10.png" crc="415189741" ref="lotr"/>
+    <file name="lotr.jpg" crc="381957306" ref="lotr"/>
+    <file name="u2689-8.png" crc="108905923" ref="gray-area"/>
+    <file name="grayarea.jpg" crc="4034187509" ref="gray-area"/>
+    <file name="u2832-10.png" crc="427742172" ref="stop-wildlife-crime"/>
+    <file name="mu22.jpg" crc="4000200099" ref="stop-wildlife-crime"/>
+    <file name="12.jpg" crc="3854961274" ref="stop-wildlife-crime"/>
+    <file name="72.jpg" crc="191551934" ref="stop-wildlife-crime"/>
+    <file name="22.jpg" crc="4284512072" ref="stop-wildlife-crime"/>
+    <file name="52.jpg" crc="3890123049" ref="stop-wildlife-crime"/>
+    <file name="42.jpg" crc="4184974380" ref="stop-wildlife-crime"/>
+    <file name="32.jpg" crc="217216659" ref="stop-wildlife-crime"/>
+    <file name="62.jpg" crc="190541085" ref="stop-wildlife-crime"/>
+    <file name="82.jpg" crc="4014805664" ref="stop-wildlife-crime"/>
+    <file name="mu12.jpg" crc="432268827" ref="stop-wildlife-crime"/>
+    <file name="u2995-10.png" crc="3871322936" ref="bound---brewed"/>
+    <file name="boundbrewed_1.jpg" crc="24354881" ref="bound---brewed"/>
+    <file name="boundbrewed_2.jpg" crc="3967387312" ref="bound---brewed"/>
+    <file name="boundbrewed4.jpg" crc="3849671286" ref="bound---brewed"/>
+    <file name="logos.jpg" crc="251816079" ref="bound---brewed"/>
+    <file name="stationarymockup.jpg" crc="182627513" ref="bound---brewed"/>
   </folder>
-  <file name="index.html" crc="3813938228" mt="1430171384406" redirect="true"/>
-  <file name="graphic-design.html" crc="4057974621" mt="1430171384406" redirect="true"/>
-  <file name="contact.html" crc="464378643" mt="1430171396511" redirect="true"/>
-  <file name="pixar-brochure.html" crc="4180822644" mt="1430171384406" redirect="true"/>
-  <file name="illustration.html" crc="83933656" mt="1430171384406" redirect="true"/>
+  <file name="index.html" crc="99401309" mt="1430278851336" redirect="true"/>
+  <file name="graphic-design.html" crc="340890509" mt="1430290575327" redirect="true"/>
+  <file name="contact.html" crc="3847102123" mt="1430282939380" redirect="true"/>
+  <file name="pixar-brochure.html" crc="3813416690" mt="1430289022391" redirect="true"/>
+  <file name="illustration.html" crc="123468009" mt="1430286541570" redirect="true"/>
+  <file name="pure-pull.html" crc="4222852185" mt="1430284831280" redirect="true"/>
+  <file name="explosed.html" crc="4173111710" mt="1430284927878" redirect="true"/>
+  <file name="e4.html" crc="207043883" mt="1430284884939" redirect="true"/>
+  <file name="king.html" crc="3907203974" mt="1430285446220" redirect="true"/>
+  <file name="jolie.html" crc="261432267" mt="1430285438409" redirect="true"/>
+  <file name="half-past-whenever.html" crc="3800445287" mt="1430285420303" redirect="true"/>
+  <file name="shatter.html" crc="3987801797" mt="1430285758740" redirect="true"/>
+  <file name="uh-huh,-honey.html" crc="4258514427" mt="1430285938087" redirect="true"/>
+  <file name="robert-downey,-jr.html" crc="4023034873" mt="1430286130738" redirect="true"/>
+  <file name="lotr.html" crc="56087809" mt="1430286258761" redirect="true"/>
+  <file name="gray-area.html" crc="3970307356" mt="1430286465521" redirect="true"/>
+  <file name="stop-wildlife-crime.html" crc="4020983350" mt="1430289832548" redirect="true"/>
+  <file name="bound---brewed.html" crc="4008046313" mt="1430290411460" redirect="true"/>
 </manifest>

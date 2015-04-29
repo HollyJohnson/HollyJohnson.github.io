@@ -41,29 +41,6 @@
 	background: url("../images/u145-a.png") no-repeat 0px 0px;
 }
 
-#u159
-{
-	background-color: #FFFFFF;
-	position: relative;
-}
-
-#u161
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u161.png") no-repeat 0px 0px;
-}
-
-#u159:hover #u161
-{
-	background: url("../images/u161-r.png") no-repeat 0px 0px;
-}
-
-#u159.MuseMenuActive #u161
-{
-	background: url("../images/u161-a.png") no-repeat 0px 0px;
-}
-
 #u166
 {
 	background-color: #FFFFFF;
@@ -159,7 +136,7 @@
 	position: relative;
 }
 
-#u143,#u158,#u165,#u172,#u179,#u342,#u347,#u352
+#u143,#u165,#u172,#u179,#u342,#u347,#u352
 {
 	background-color: transparent;
 	position: relative;
