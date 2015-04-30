@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #808866;
+	color: #0000F7;
+	background-color: #67A421;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1440px;
-	min-height: 4374px;
+	min-height: 4254px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -402,7 +402,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 564px;
+	margin-top: 448px;
 	margin-left: 3px;
 }
 
@@ -647,7 +647,7 @@
 	height: 637px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 612px;
+	margin-top: 496px;
 	left: 1px;
 }
 
@@ -688,7 +688,7 @@
 	height: 1073px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 354px;
+	margin-top: 238px;
 	left: 1px;
 	background: #FFFFFF url("../images/photo1.jpg") no-repeat center center;
 	background-size: cover;
@@ -706,8 +706,8 @@
 
 #u557_position_content
 {
-	padding-top: 125px;
-	padding-bottom: 126px;
+	padding-top: 87px;
+	padding-bottom: 80px;
 }
 
 #u558-4
@@ -718,46 +718,13 @@
 	position: relative;
 }
 
-#u559-13
+#u559-17
 {
 	z-index: 61;
 	display: block;
 	vertical-align: top;
 	margin-top: 34px;
 	position: relative;
-}
-
-#u563
-{
-	z-index: 74;
-	width: 215px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 613px;
-	margin-top: 25px;
-	position: relative;
-}
-
-#u562
-{
-	z-index: 76;
-	position: relative;
-	width: 215px;
-	margin-right: -10000px;
-}
-
-#u562_states
-{
-	height: 53px;
-	width: 215px;
-	vertical-align: top;
-	background: url("../images/u562_states.png") no-repeat 0px 0px;
-}
-
-#u562:hover #u562_states
-{
-	background: url("../images/u562_states-r.png") no-repeat 0px 0px;
 }
 
 #u943
@@ -767,7 +734,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1248px;
+	margin-top: 1133px;
 }
 
 #u1037-4
@@ -777,7 +744,7 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1322px;
+	margin-top: 1207px;
 	left: 2px;
 }
 
@@ -788,7 +755,7 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1426px;
+	margin-top: 1311px;
 	left: 5px;
 }
 
@@ -799,7 +766,7 @@
 	height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1526px;
+	margin-top: 1411px;
 	left: 430px;
 	background: transparent url("../images/gdbutton-normal.png") no-repeat left top;
 	background-size: contain;
@@ -810,7 +777,7 @@
 	width: 233px;
 	height: 59px;
 	min-height: 0px;
-	margin: 1526px -10000px 0px 0px;
+	margin: 1411px -10000px 0px 0px;
 	background: transparent url("../images/gdbutton-rollover.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -820,7 +787,7 @@
 	width: 233px;
 	height: 59px;
 	min-height: 0px;
-	margin: 1526px -10000px 0px 0px;
+	margin: 1411px -10000px 0px 0px;
 	background: transparent url("../images/gdbutton-mouse%20down.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -832,7 +799,7 @@
 	height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1526px;
+	margin-top: 1411px;
 	left: 761px;
 	background: transparent url("../images/illustrationbutton-normal.png") no-repeat left top;
 	background-size: contain;
@@ -843,7 +810,7 @@
 	width: 233px;
 	height: 59px;
 	min-height: 0px;
-	margin: 1526px -10000px 0px 0px;
+	margin: 1411px -10000px 0px 0px;
 	background: transparent url("../images/illustrationbutton-rollover.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -853,7 +820,7 @@
 	width: 233px;
 	height: 59px;
 	min-height: 0px;
-	margin: 1526px -10000px 0px 0px;
+	margin: 1411px -10000px 0px 0px;
 	background: transparent url("../images/illustrationbutton-mouse%20down.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -1337,7 +1304,7 @@
 	width: 1440px;
 	height: 174px;
 	margin-left: 1px;
-	margin-top: 54px;
+	margin-top: 50px;
 	position: relative;
 	background: #FA2121 url("../images/resumebutton-normal.jpg") no-repeat left top;
 	background-size: contain;
@@ -1348,7 +1315,7 @@
 	width: 1440px;
 	height: 174px;
 	min-height: 0px;
-	margin: 54px 0px 0px 1px;
+	margin: 50px 0px 0px 1px;
 	background: #FA2121 url("../images/resumebutton-rollover.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -1358,7 +1325,7 @@
 	width: 1440px;
 	height: 174px;
 	min-height: 0px;
-	margin: 54px 0px 0px 1px;
+	margin: 50px 0px 0px 1px;
 	background: #FA2121 url("../images/resumebutton-mouse%20down.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -1429,8 +1396,8 @@
 	width: 1444px;
 	padding-bottom: 62px;
 	left: -2px;
-	top: -2px;
-	margin-bottom: -2px;
+	top: -3px;
+	margin-bottom: -3px;
 }
 
 #u336-4
