@@ -1,7 +1,7 @@
 .version.stop_wildlife_crime /* version checker */
 {
-	color: #0000FB;
-	background-color: #EB857E;
+	color: #0000ED;
+	background-color: #7C8615;
 }
 
 .html
@@ -219,7 +219,6 @@
 #pu2111
 {
 	width: 0.01px;
-	margin-left: 108px;
 }
 
 #u2111
@@ -228,7 +227,7 @@
 	width: 50px;
 	min-height: 50px;
 	margin-right: -10000px;
-	left: 732px;
+	left: 840px;
 }
 
 #u2832-10

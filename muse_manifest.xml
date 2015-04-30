@@ -1,32 +1,32 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430396416870">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430397749414">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="master_a-master.css" crc="3997565043" ref="uh-huh,-honey:illustration:inside-the-pixar-braintrust:shatter:contact:from-eden:king:pixar-brochure:cellphone-courtesy:from-eden-app:graphic-design:claritin-campaign:jolie:the-franco-effect:the-opinion-of-sheep:bound---brewed:pixar-posters:e4:index:gray-area:stop-wildlife-crime:lotr:robert-downey,-jr:explosed:half-past-whenever:pure-pull"/>
-    <file name="uh-huh_-honey.css" crc="3805778965" ref="uh-huh,-honey"/>
+    <file name="uh-huh_-honey.css" crc="281766421" ref="uh-huh,-honey"/>
     <file name="illustration.css" crc="10914176" ref="illustration"/>
-    <file name="inside-the-pixar-braintrust.css" crc="3772823655" ref="inside-the-pixar-braintrust"/>
-    <file name="shatter.css" crc="3906780866" ref="shatter"/>
+    <file name="inside-the-pixar-braintrust.css" crc="4221492192" ref="inside-the-pixar-braintrust"/>
+    <file name="shatter.css" crc="4252673140" ref="shatter"/>
     <file name="contact.css" crc="402780519" ref="contact"/>
-    <file name="from-eden.css" crc="4061336730" ref="from-eden"/>
-    <file name="king.css" crc="4094446964" ref="king"/>
-    <file name="pixar-brochure.css" crc="317965210" ref="pixar-brochure"/>
-    <file name="cellphone-courtesy.css" crc="477135471" ref="cellphone-courtesy"/>
-    <file name="from-eden-app.css" crc="1612751" ref="from-eden-app"/>
+    <file name="from-eden.css" crc="461062228" ref="from-eden"/>
+    <file name="king.css" crc="3882728658" ref="king"/>
+    <file name="pixar-brochure.css" crc="167377043" ref="pixar-brochure"/>
+    <file name="cellphone-courtesy.css" crc="4088889540" ref="cellphone-courtesy"/>
+    <file name="from-eden-app.css" crc="3975048926" ref="from-eden-app"/>
     <file name="graphic-design.css" crc="4032366793" ref="graphic-design"/>
-    <file name="claritin-campaign.css" crc="150944792" ref="claritin-campaign"/>
-    <file name="jolie.css" crc="4181815677" ref="jolie"/>
-    <file name="the-franco-effect.css" crc="406068284" ref="the-franco-effect"/>
-    <file name="the-opinion-of-sheep.css" crc="440704207" ref="the-opinion-of-sheep"/>
-    <file name="bound---brewed.css" crc="4270499972" ref="bound---brewed"/>
-    <file name="pixar-posters.css" crc="454981499" ref="pixar-posters"/>
-    <file name="e4.css" crc="212001276" ref="e4"/>
-    <file name="index.css" crc="4150764577" ref="index"/>
-    <file name="gray-area.css" crc="219164273" ref="gray-area"/>
-    <file name="stop-wildlife-crime.css" crc="4226516350" ref="stop-wildlife-crime"/>
-    <file name="lotr.css" crc="366872920" ref="lotr"/>
-    <file name="robert-downey_-jr.css" crc="3812855456" ref="robert-downey,-jr"/>
-    <file name="explosed.css" crc="468716973" ref="explosed"/>
-    <file name="half-past-whenever.css" crc="176570001" ref="half-past-whenever"/>
+    <file name="claritin-campaign.css" crc="506492823" ref="claritin-campaign"/>
+    <file name="jolie.css" crc="387787502" ref="jolie"/>
+    <file name="the-franco-effect.css" crc="3817780221" ref="the-franco-effect"/>
+    <file name="the-opinion-of-sheep.css" crc="493761325" ref="the-opinion-of-sheep"/>
+    <file name="bound---brewed.css" crc="18243130" ref="bound---brewed"/>
+    <file name="pixar-posters.css" crc="4257792815" ref="pixar-posters"/>
+    <file name="e4.css" crc="164675890" ref="e4"/>
+    <file name="index.css" crc="4058253868" ref="index"/>
+    <file name="gray-area.css" crc="446962407" ref="gray-area"/>
+    <file name="stop-wildlife-crime.css" crc="3984360981" ref="stop-wildlife-crime"/>
+    <file name="lotr.css" crc="4131217871" ref="lotr"/>
+    <file name="robert-downey_-jr.css" crc="4279992594" ref="robert-downey,-jr"/>
+    <file name="explosed.css" crc="4163714748" ref="explosed"/>
+    <file name="half-past-whenever.css" crc="4132960704" ref="half-past-whenever"/>
     <file name="pure-pull.css" crc="493036567" ref="pure-pull"/>
   </folder>
   <folder name="assets">
@@ -137,6 +137,7 @@
     <file name="resumebutton-normal.jpg" crc="224095096" ref="index:graphic-design:illustration"/>
     <file name="resumebutton-rollover.jpg" crc="3966229493" ref="index:graphic-design:illustration"/>
     <file name="resumebutton-mouse down.jpg" crc="3966229493" ref="index:graphic-design:illustration"/>
+    <file name="resumebutton-active.jpg" crc="3966229493" ref="index:graphic-design"/>
     <file name="digitalportfoliobutton-normal.jpg" crc="354166821" ref="index:graphic-design:illustration"/>
     <file name="digitalportfoliobutton-rollover.jpg" crc="3137271" ref="index:graphic-design:illustration"/>
     <file name="digitalportfoliobutton-mouse down.jpg" crc="3137271" ref="index:graphic-design:illustration"/>
@@ -160,7 +161,6 @@
     <file name="gd_franco.jpg" crc="3769284614" ref="graphic-design"/>
     <file name="gd_cellad.jpg" crc="4035704115" ref="graphic-design"/>
     <file name="gd_btarticle.jpg" crc="281513539" ref="graphic-design"/>
-    <file name="resumebutton-active.jpg" crc="3966229493" ref="graphic-design"/>
     <file name="contactimage.jpg" crc="225372038" ref="contact"/>
     <file name="u2214-4.png" crc="4060494522" ref="contact"/>
     <file name="u2433-8.png" crc="4225178551" ref="contact"/>
@@ -176,7 +176,7 @@
     <file name="digitalportfoliobutton-rollover2.jpg" crc="4105312819" ref="contact"/>
     <file name="digitalportfoliobutton-down.jpg" crc="4105312819" ref="contact"/>
     <file name="hollyjohnsonresume.jpg" crc="346159971" ref="contact"/>
-    <file name="u1408-10.png" crc="3769066279" ref="pixar-brochure"/>
+    <file name="u1408-10.png" crc="309774190" ref="pixar-brochure"/>
     <file name="mu4.jpg" crc="4073427139" ref="pixar-brochure"/>
     <file name="1.jpg" crc="3936771082" ref="pixar-brochure"/>
     <file name="2.jpg" crc="4230682194" ref="pixar-brochure"/>
@@ -237,7 +237,7 @@
     <file name="lotr.jpg" crc="381957306" ref="lotr"/>
     <file name="u2689-8.png" crc="108905923" ref="gray-area"/>
     <file name="grayarea.jpg" crc="4034187509" ref="gray-area"/>
-    <file name="u2832-10.png" crc="462764273" ref="stop-wildlife-crime"/>
+    <file name="u2832-10.png" crc="4057133721" ref="stop-wildlife-crime"/>
     <file name="mu22.jpg" crc="347457056" ref="stop-wildlife-crime"/>
     <file name="12.jpg" crc="297850064" ref="stop-wildlife-crime"/>
     <file name="72.jpg" crc="3949115930" ref="stop-wildlife-crime"/>
@@ -248,18 +248,18 @@
     <file name="62.jpg" crc="3829958642" ref="stop-wildlife-crime"/>
     <file name="82.jpg" crc="458879997" ref="stop-wildlife-crime"/>
     <file name="mu12.jpg" crc="4166931798" ref="stop-wildlife-crime"/>
-    <file name="u2995-10.png" crc="33173295" ref="bound---brewed"/>
+    <file name="u2995-10.png" crc="3771794626" ref="bound---brewed"/>
     <file name="boundbrewed_1.jpg" crc="4121289898" ref="bound---brewed"/>
     <file name="boundbrewed_2.jpg" crc="350228158" ref="bound---brewed"/>
     <file name="boundbrewed4.jpg" crc="141713314" ref="bound---brewed"/>
     <file name="logos.jpg" crc="4270932332" ref="bound---brewed"/>
     <file name="stationarymockup.jpg" crc="4001358410" ref="bound---brewed"/>
-    <file name="u3111-10.png" crc="509109540" ref="pixar-posters"/>
+    <file name="u3111-10.png" crc="260161672" ref="pixar-posters"/>
     <file name="poster1.jpg" crc="4249314986" ref="pixar-posters:cellphone-courtesy"/>
     <file name="poster2.jpg" crc="271726116" ref="pixar-posters:cellphone-courtesy"/>
-    <file name="u3182-8.png" crc="493257705" ref="the-opinion-of-sheep"/>
+    <file name="u3182-8.png" crc="155935792" ref="the-opinion-of-sheep"/>
     <file name="tiger.jpg" crc="4079541116" ref="the-opinion-of-sheep"/>
-    <file name="u3229-8.png" crc="4085985227" ref="from-eden-app"/>
+    <file name="u3229-10.png" crc="366172937" ref="from-eden-app"/>
     <file name="environment2.jpg" crc="363966002" ref="from-eden-app"/>
     <file name="152.jpg" crc="4110566953" ref="from-eden-app"/>
     <file name="53.jpg" crc="3845419278" ref="from-eden-app"/>
@@ -279,18 +279,18 @@
     <file name="142.jpg" crc="395374117" ref="from-eden-app"/>
     <file name="23.jpg" crc="386894995" ref="from-eden-app"/>
     <file name="92.jpg" crc="4123098960" ref="from-eden-app"/>
-    <file name="u3409-8.png" crc="426084701" ref="claritin-campaign"/>
+    <file name="u3409-10.png" crc="3769091330" ref="claritin-campaign"/>
     <file name="adinsert.jpg" crc="221266000" ref="claritin-campaign"/>
     <file name="facebook.jpg" crc="244724" ref="claritin-campaign"/>
     <file name="adinsertmockup.jpg" crc="274805112" ref="claritin-campaign"/>
     <file name="subwayad.jpg" crc="54867746" ref="claritin-campaign"/>
     <file name="24.jpg" crc="207236369" ref="from-eden"/>
     <file name="bottlelineup.jpg" crc="3853338099" ref="from-eden"/>
-    <file name="u3508-8.png" crc="3941764047" ref="from-eden"/>
+    <file name="u3508-8.png" crc="4129333186" ref="from-eden"/>
     <file name="box2.jpg" crc="429375371" ref="from-eden"/>
     <file name="lastimage-02.jpg" crc="396879632" ref="from-eden"/>
-    <file name="bottle-cap.jpg" crc="462781430" ref="from-eden"/>
-    <file name="u3628-12.png" crc="4014778263" ref="inside-the-pixar-braintrust"/>
+    <file name="bottle-cap.jpg" crc="3792410631" ref="from-eden"/>
+    <file name="u3628-12.png" crc="301465862" ref="inside-the-pixar-braintrust"/>
     <file name="ar370_hj_5pagearticle-2.jpg" crc="359632655" ref="inside-the-pixar-braintrust"/>
     <file name="25.jpg" crc="494600298" ref="inside-the-pixar-braintrust"/>
     <file name="34.jpg" crc="3824586990" ref="inside-the-pixar-braintrust:the-franco-effect"/>
@@ -299,35 +299,35 @@
     <file name="u3719-10.png" crc="59570722" ref="cellphone-courtesy"/>
     <file name="mta1.jpg" crc="3806114970" ref="cellphone-courtesy"/>
     <file name="26.jpg" crc="332050660" ref="cellphone-courtesy"/>
-    <file name="u3754-10.png" crc="4207403089" ref="the-franco-effect"/>
+    <file name="u3754-10.png" crc="3960984144" ref="the-franco-effect"/>
     <file name="18.jpg" crc="456148086" ref="the-franco-effect"/>
     <file name="27.jpg" crc="4125396797" ref="the-franco-effect"/>
     <file name="35.jpg" crc="194986555" ref="the-franco-effect"/>
   </folder>
-  <file name="index.html" crc="122898020" mt="1430396271689" redirect="true"/>
+  <file name="index.html" crc="271192090" mt="1430397028308" redirect="true"/>
   <file name="graphic-design.html" crc="4054837979" mt="1430396247535" redirect="true"/>
   <file name="contact.html" crc="50695231" mt="1430396336564" redirect="true"/>
-  <file name="pixar-brochure.html" crc="169796820" mt="1430395835165" redirect="true"/>
+  <file name="pixar-brochure.html" crc="4138952412" mt="1430396760539" redirect="true"/>
   <file name="illustration.html" crc="386749613" mt="1430396284280" redirect="true"/>
   <file name="pure-pull.html" crc="4193639314" mt="1430395835165" redirect="true"/>
-  <file name="explosed.html" crc="4099542918" mt="1430395835165" redirect="true"/>
-  <file name="e4.html" crc="69660336" mt="1430395835165" redirect="true"/>
-  <file name="king.html" crc="335502541" mt="1430395835165" redirect="true"/>
-  <file name="jolie.html" crc="4286656741" mt="1430395835165" redirect="true"/>
-  <file name="half-past-whenever.html" crc="3983555261" mt="1430395835165" redirect="true"/>
-  <file name="shatter.html" crc="4150665437" mt="1430395835165" redirect="true"/>
-  <file name="uh-huh,-honey.html" crc="177498885" mt="1430395835165" redirect="true"/>
-  <file name="robert-downey,-jr.html" crc="4002151029" mt="1430395835165" redirect="true"/>
-  <file name="lotr.html" crc="3778895685" mt="1430395835165" redirect="true"/>
-  <file name="gray-area.html" crc="3938876370" mt="1430395835165" redirect="true"/>
-  <file name="stop-wildlife-crime.html" crc="207700845" mt="1430395835165" redirect="true"/>
-  <file name="bound---brewed.html" crc="4052434750" mt="1430395835165" redirect="true"/>
-  <file name="pixar-posters.html" crc="3764162418" mt="1430395835165" redirect="true"/>
-  <file name="the-opinion-of-sheep.html" crc="3966377391" mt="1430395835165" redirect="true"/>
-  <file name="from-eden-app.html" crc="514658916" mt="1430395835165" redirect="true"/>
-  <file name="claritin-campaign.html" crc="3949433903" mt="1430395835165" redirect="true"/>
-  <file name="from-eden.html" crc="121565796" mt="1430395835165" redirect="true"/>
-  <file name="inside-the-pixar-braintrust.html" crc="19356735" mt="1430395835165" redirect="true"/>
-  <file name="cellphone-courtesy.html" crc="3923287336" mt="1430396015613" redirect="true"/>
-  <file name="the-franco-effect.html" crc="393791821" mt="1430396227216" redirect="true"/>
+  <file name="explosed.html" crc="4099542918" mt="1430397466891" redirect="true"/>
+  <file name="e4.html" crc="69660336" mt="1430396711429" redirect="true"/>
+  <file name="king.html" crc="335502541" mt="1430397494804" redirect="true"/>
+  <file name="jolie.html" crc="4286656741" mt="1430397519978" redirect="true"/>
+  <file name="half-past-whenever.html" crc="3983555261" mt="1430397558613" redirect="true"/>
+  <file name="shatter.html" crc="4150665437" mt="1430397582374" redirect="true"/>
+  <file name="uh-huh,-honey.html" crc="177498885" mt="1430397614416" redirect="true"/>
+  <file name="robert-downey,-jr.html" crc="4002151029" mt="1430397635410" redirect="true"/>
+  <file name="lotr.html" crc="3778895685" mt="1430397680824" redirect="true"/>
+  <file name="gray-area.html" crc="3938876370" mt="1430397706677" redirect="true"/>
+  <file name="stop-wildlife-crime.html" crc="516800623" mt="1430396986580" redirect="true"/>
+  <file name="bound---brewed.html" crc="46383326" mt="1430397089737" redirect="true"/>
+  <file name="pixar-posters.html" crc="59979290" mt="1430396893014" redirect="true"/>
+  <file name="the-opinion-of-sheep.html" crc="3787879568" mt="1430397280281" redirect="true"/>
+  <file name="from-eden-app.html" crc="120081953" mt="1430397142082" redirect="true"/>
+  <file name="claritin-campaign.html" crc="361401402" mt="1430397225690" redirect="true"/>
+  <file name="from-eden.html" crc="3965102353" mt="1430396947013" redirect="true"/>
+  <file name="inside-the-pixar-braintrust.html" crc="4203439530" mt="1430397322627" redirect="true"/>
+  <file name="cellphone-courtesy.html" crc="3923287336" mt="1430397367680" redirect="true"/>
+  <file name="the-franco-effect.html" crc="4112617433" mt="1430397414863" redirect="true"/>
 </manifest>

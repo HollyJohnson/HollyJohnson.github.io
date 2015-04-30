@@ -1,7 +1,7 @@
 .version.pixar_brochure /* version checker */
 {
-	color: #000012;
-	background-color: #F3C39A;
+	color: #000009;
+	background-color: #F9F893;
 }
 
 .html
@@ -219,7 +219,6 @@
 #pu2111
 {
 	width: 0.01px;
-	margin-left: 182px;
 }
 
 #u2111
@@ -228,7 +227,7 @@
 	width: 50px;
 	min-height: 50px;
 	margin-right: -10000px;
-	left: 658px;
+	left: 840px;
 }
 
 #u1408-10

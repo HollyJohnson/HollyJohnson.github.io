@@ -1,7 +1,7 @@
 .version.cellphone_courtesy /* version checker */
 {
-	color: #00001C;
-	background-color: #70826F;
+	color: #0000F3;
+	background-color: #B780C4;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1440px;
-	min-height: 1849.9999999999995px;
+	min-height: 1845.9999999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -361,6 +361,8 @@
 	width: 1444px;
 	padding-bottom: 62px;
 	left: -2px;
+	top: -4px;
+	margin-bottom: -4px;
 }
 
 #u336-4

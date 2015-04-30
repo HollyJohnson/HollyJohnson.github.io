@@ -1,7 +1,7 @@
 .version.robert_downey__jr /* version checker */
 {
-	color: #0000E3;
-	background-color: #438EA0;
+	color: #0000FF;
+	background-color: #1B8112;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1440px;
-	min-height: 1603.9999999999995px;
+	min-height: 1598.9999999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -322,6 +322,8 @@
 	width: 1444px;
 	padding-bottom: 62px;
 	left: -2px;
+	top: -5px;
+	margin-bottom: -5px;
 }
 
 #u336-4

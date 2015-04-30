@@ -1,7 +1,7 @@
 .version.from_eden_app /* version checker */
 {
-	color: #000000;
-	background-color: #189BCF;
+	color: #0000EC;
+	background-color: #EE6EDE;
 }
 
 .html
@@ -31,19 +31,19 @@
 
 #u285
 {
-	z-index: 71;
+	z-index: 73;
 	height: 71px;
 	top: 0px;
 }
 
 #u285-bw
 {
-	z-index: 71;
+	z-index: 73;
 }
 
 #u405
 {
-	z-index: 72;
+	z-index: 74;
 	width: 1016px;
 	padding-bottom: 62px;
 	top: 5px;
@@ -53,7 +53,7 @@
 
 #u120
 {
-	z-index: 73;
+	z-index: 75;
 	width: 21px;
 	top: 8px;
 	left: 50%;
@@ -62,7 +62,7 @@
 
 #menuu142
 {
-	z-index: 75;
+	z-index: 77;
 	width: 892px;
 	top: 5px;
 	left: 50%;
@@ -219,7 +219,6 @@
 #pu2111
 {
 	width: 0.01px;
-	margin-left: 176px;
 }
 
 #u2111
@@ -228,17 +227,17 @@
 	width: 50px;
 	min-height: 50px;
 	margin-right: -10000px;
-	left: 664px;
+	left: 840px;
 }
 
-#u3229-8
+#u3229-10
 {
 	z-index: 43;
 	display: block;
 	vertical-align: top;
 }
 
-#u3229-8-bw
+#u3229-10-bw
 {
 	z-index: 43;
 	margin-top: 39px;
@@ -246,7 +245,7 @@
 
 #u3367
 {
-	z-index: 60;
+	z-index: 62;
 	width: 1141px;
 	background-color: transparent;
 	margin-left: 150px;
@@ -371,7 +370,7 @@
 
 #u3395
 {
-	z-index: 51;
+	z-index: 53;
 	width: 866px;
 	border-style: none;
 	border-color: transparent;
@@ -382,7 +381,7 @@
 
 #u3317
 {
-	z-index: 56;
+	z-index: 58;
 	width: 217px;
 	background-color: transparent;
 	position: relative;
@@ -391,7 +390,7 @@
 
 #u3312
 {
-	z-index: 54;
+	z-index: 56;
 	width: 217px;
 	background-color: transparent;
 	position: relative;
@@ -401,7 +400,7 @@
 
 #u3307
 {
-	z-index: 52;
+	z-index: 54;
 	width: 217px;
 	background-color: transparent;
 	position: relative;
@@ -411,7 +410,7 @@
 
 #u3337
 {
-	z-index: 58;
+	z-index: 60;
 	width: 217px;
 	background-color: transparent;
 	position: relative;
@@ -457,7 +456,7 @@
 
 #u3399
 {
-	z-index: 62;
+	z-index: 64;
 	width: 866px;
 	border-style: none;
 	border-color: transparent;
@@ -469,7 +468,7 @@
 
 #u3357
 {
-	z-index: 69;
+	z-index: 71;
 	width: 220px;
 	background-color: transparent;
 	position: relative;
@@ -478,7 +477,7 @@
 
 #u3347
 {
-	z-index: 67;
+	z-index: 69;
 	width: 220px;
 	background-color: transparent;
 	position: relative;
@@ -495,7 +494,7 @@
 
 #u3287
 {
-	z-index: 63;
+	z-index: 65;
 	width: 220px;
 	background-color: transparent;
 	position: relative;
@@ -505,7 +504,7 @@
 
 #u3322
 {
-	z-index: 65;
+	z-index: 67;
 	width: 220px;
 	background-color: transparent;
 	position: relative;

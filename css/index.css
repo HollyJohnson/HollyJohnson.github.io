@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F7;
-	background-color: #67A421;
+	color: #0000F1;
+	background-color: #E40A2C;
 }
 
 .html
@@ -1327,6 +1327,16 @@
 	min-height: 0px;
 	margin: 50px 0px 0px 1px;
 	background: #FA2121 url("../images/resumebutton-mouse%20down.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1039.MuseLinkActive
+{
+	width: 1440px;
+	height: 174px;
+	min-height: 0px;
+	margin: 50px 0px 0px 1px;
+	background: #FA2121 url("../images/resumebutton-active.jpg") no-repeat left top;
 	background-size: contain;
 }
 

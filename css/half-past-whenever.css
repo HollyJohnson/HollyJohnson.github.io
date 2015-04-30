@@ -1,7 +1,7 @@
 .version.half_past_whenever /* version checker */
 {
-	color: #00000A;
-	background-color: #863E91;
+	color: #0000F6;
+	background-color: #57F9C0;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1440px;
-	min-height: 1603.9999999999995px;
+	min-height: 1595.9999999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -321,6 +321,8 @@
 	width: 1444px;
 	padding-bottom: 62px;
 	left: -2px;
+	top: -8px;
+	margin-bottom: -8px;
 }
 
 #u336-4

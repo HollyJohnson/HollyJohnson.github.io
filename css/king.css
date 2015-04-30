@@ -1,7 +1,7 @@
 .version.king /* version checker */
 {
-	color: #0000F4;
-	background-color: #0C4D74;
+	color: #0000E7;
+	background-color: #6DBCD2;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1440px;
-	min-height: 1603.9999999999995px;
+	min-height: 1599.9999999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -322,6 +322,8 @@
 	width: 1444px;
 	padding-bottom: 62px;
 	left: -2px;
+	top: -4px;
+	margin-bottom: -4px;
 }
 
 #u336-4

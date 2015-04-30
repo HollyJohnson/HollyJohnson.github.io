@@ -1,7 +1,7 @@
 .version.from_eden /* version checker */
 {
-	color: #0000F2;
-	background-color: #13149A;
+	color: #00001B;
+	background-color: #7B4054;
 }
 
 .html
@@ -219,7 +219,6 @@
 #pu2111
 {
 	width: 0.01px;
-	margin-left: -100px;
 }
 
 #u2111
@@ -228,7 +227,7 @@
 	width: 50px;
 	min-height: 50px;
 	margin-right: -10000px;
-	left: 940px;
+	left: 840px;
 }
 
 #u3574
@@ -239,7 +238,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 832px;
-	left: 311px;
+	left: 211px;
 }
 
 #u3585
@@ -250,7 +249,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 172px;
-	left: 250px;
+	left: 150px;
 }
 
 #u3508-8
@@ -295,12 +294,12 @@
 #u3580
 {
 	z-index: 34;
-	width: 358px;
+	width: 365px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	left: 712px;
+	left: 705px;
 }
 
 #u3509
@@ -308,7 +307,7 @@
 	z-index: 24;
 	width: 1440px;
 	height: 174px;
-	margin-top: 50px;
+	margin-top: 49px;
 	position: relative;
 	background: transparent url("../images/graphicdesignbutton-normal.jpg") no-repeat left top;
 	background-size: contain;
@@ -319,7 +318,7 @@
 	width: 1440px;
 	height: 174px;
 	min-height: 0px;
-	margin: 50px 0px 0px;
+	margin: 49px 0px 0px;
 	background: transparent url("../images/graphicdesignbutton-rollover.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -329,7 +328,7 @@
 	width: 1440px;
 	height: 174px;
 	min-height: 0px;
-	margin: 50px 0px 0px;
+	margin: 49px 0px 0px;
 	background: transparent url("../images/graphicdesignbutton-mouse%20down.jpg") no-repeat left top;
 	background-size: contain;
 }

@@ -1,7 +1,7 @@
 .version.the_opinion_of_sheep /* version checker */
 {
-	color: #00001A;
-	background-color: #449CCF;
+	color: #00001D;
+	background-color: #6E332D;
 }
 
 .html
@@ -219,7 +219,6 @@
 #pu2111
 {
 	width: 0.01px;
-	margin-left: -100px;
 }
 
 #u2111
@@ -228,7 +227,7 @@
 	width: 50px;
 	min-height: 50px;
 	margin-right: -10000px;
-	left: 940px;
+	left: 840px;
 }
 
 #u3182-8
@@ -252,7 +251,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 234px;
-	left: 454px;
+	left: 354px;
 }
 
 #u3183

@@ -1,7 +1,7 @@
 .version.lotr /* version checker */
 {
-	color: #000015;
-	background-color: #DE0958;
+	color: #0000F6;
+	background-color: #3D61CF;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1440px;
-	min-height: 1603.9999999999995px;
+	min-height: 1600.9999999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -321,6 +321,8 @@
 	width: 1444px;
 	padding-bottom: 62px;
 	left: -2px;
+	top: -3px;
+	margin-bottom: -3px;
 }
 
 #u336-4

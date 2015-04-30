@@ -1,7 +1,7 @@
 .version.the_franco_effect /* version checker */
 {
-	color: #000018;
-	background-color: #341C3C;
+	color: #0000E3;
+	background-color: #8EB3FD;
 }
 
 .html
@@ -219,7 +219,6 @@
 #pu2111
 {
 	width: 0.01px;
-	margin-left: -100px;
 }
 
 #u2111
@@ -228,7 +227,7 @@
 	width: 50px;
 	min-height: 50px;
 	margin-right: -10000px;
-	left: 940px;
+	left: 840px;
 }
 
 #u3754-10

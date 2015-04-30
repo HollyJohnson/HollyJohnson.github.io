@@ -1,7 +1,7 @@
 .version.e4 /* version checker */
 {
-	color: #00000C;
-	background-color: #A2E1FC;
+	color: #000009;
+	background-color: #D0C132;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1440px;
-	min-height: 1375.9999999999995px;
+	min-height: 1374.9999999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -323,6 +323,8 @@
 	width: 1444px;
 	padding-bottom: 62px;
 	left: -2px;
+	top: -1px;
+	margin-bottom: -1px;
 }
 
 #u336-4
