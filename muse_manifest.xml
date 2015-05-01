@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430459609460">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430459976618">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="master_a-master.css" crc="3997565043" ref="lotr:contact:robert-downey,-jr:illustration:cellphone-courtesy:stop-wildlife-crime:the-franco-effect:index:half-past-whenever:pure-pull:bound---brewed:gray-area:pixar-posters:pixar-brochure:the-opinion-of-sheep:explosed:claritin-campaign:e4:king:graphic-design:jolie:from-eden:shatter:from-eden-app:uh-huh,-honey:inside-the-pixar-braintrust"/>
@@ -9,7 +9,7 @@
     <file name="cellphone-courtesy.css" crc="4088889540" ref="cellphone-courtesy"/>
     <file name="stop-wildlife-crime.css" crc="3984360981" ref="stop-wildlife-crime"/>
     <file name="the-franco-effect.css" crc="3817780221" ref="the-franco-effect"/>
-    <file name="index.css" crc="135418995" ref="index"/>
+    <file name="index.css" crc="364963049" ref="index"/>
     <file name="half-past-whenever.css" crc="4132960704" ref="half-past-whenever"/>
     <file name="pure-pull.css" crc="493036567" ref="pure-pull"/>
     <file name="bound---brewed.css" crc="18243130" ref="bound---brewed"/>
@@ -33,7 +33,7 @@
     <file name="hj_personalwebsite" crc="3805778689" mt="1427066647000"/>
     <file name="resumepdf.pdf" crc="4204672244" mt="1430282732000"/>
     <file name="hj_digitalportfolio_2.pdf" crc="513867427" mt="1430413318000"/>
-    <file name="snippet_30b5219f2.idms" crc="135087961" mt="1430398367000"/>
+    <file name="snippet_30b5219f2.idms" crc="135087961" mt="1430459610000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed:pixar-posters:the-opinion-of-sheep:from-eden-app:claritin-campaign:from-eden:inside-the-pixar-braintrust:cellphone-courtesy:the-franco-effect"/>
@@ -64,7 +64,7 @@
     <file name="u406-4.png" crc="513386938" ref="index"/>
     <file name="u409-6.png" crc="394140715" ref="index"/>
     <file name="u410-4.png" crc="219274512" ref="index"/>
-    <file name="skills-featureimage copyc.png" crc="4078693662" ref="index"/>
+    <file name="skills-crop-u377.png" crc="4101644234" ref="index"/>
     <file name="u413-4.png" crc="51743481" ref="index"/>
     <file name="u565-4.png" crc="4117943568" ref="index"/>
     <file name="u567-6.png" crc="236593330" ref="index"/>
@@ -306,7 +306,7 @@
     <file name="27.jpg" crc="4125396797" ref="the-franco-effect"/>
     <file name="35.jpg" crc="194986555" ref="the-franco-effect"/>
   </folder>
-  <file name="index.html" crc="3961834966" mt="1430459490233" redirect="true"/>
+  <file name="index.html" crc="462125369" mt="1430459944758" redirect="true"/>
   <file name="graphic-design.html" crc="393280756" mt="1430459490233" redirect="true"/>
   <file name="contact.html" crc="83533535" mt="1430459490233" redirect="true"/>
   <file name="pixar-brochure.html" crc="92144151" mt="1430459490233" redirect="true"/>

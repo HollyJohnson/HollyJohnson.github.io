@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #125473;
+	color: #000015;
+	background-color: #C0E4E9;
 }
 
 .html
@@ -356,17 +356,9 @@
 	margin-top: -77px;
 }
 
-#u377_clip
-{
-	overflow: hidden;
-	width: 1440px;
-	height: 212px;
-}
-
 #u377_img
 {
-	margin-right: 284px;
-	margin-bottom: -33px;
+	padding-right: 1px;
 }
 
 #u414
