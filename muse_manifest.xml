@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430460323829">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430460502251">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="master_a-master.css" crc="3997565043" ref="lotr:contact:robert-downey,-jr:illustration:cellphone-courtesy:stop-wildlife-crime:the-franco-effect:index:half-past-whenever:pure-pull:bound---brewed:gray-area:pixar-posters:pixar-brochure:the-opinion-of-sheep:explosed:claritin-campaign:e4:king:graphic-design:jolie:from-eden:shatter:from-eden-app:uh-huh,-honey:inside-the-pixar-braintrust"/>
@@ -33,7 +33,7 @@
     <file name="hj_personalwebsite" crc="3805778689" mt="1427066647000"/>
     <file name="resumepdf.pdf" crc="4204672244" mt="1430282732000"/>
     <file name="hj_digitalportfolio_2.pdf" crc="513867427" mt="1430413318000"/>
-    <file name="snippet_30b5219f2.idms" crc="135087961" mt="1430459978000"/>
+    <file name="snippet_30b5219f2.idms" crc="135087961" mt="1430460325000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:graphic-design:contact:pixar-brochure:illustration:pure-pull:explosed:e4:king:jolie:half-past-whenever:shatter:uh-huh,-honey:robert-downey,-jr:lotr:gray-area:stop-wildlife-crime:bound---brewed:pixar-posters:the-opinion-of-sheep:from-eden-app:claritin-campaign:from-eden:inside-the-pixar-braintrust:cellphone-courtesy:the-franco-effect"/>
@@ -164,7 +164,7 @@
     <file name="gd_cellad.jpg" crc="4035704115" ref="graphic-design"/>
     <file name="gd_btarticle.jpg" crc="281513539" ref="graphic-design"/>
     <file name="contactimage.jpg" crc="225372038" ref="contact"/>
-    <file name="u2214-4.png" crc="4060494522" ref="contact"/>
+    <file name="u2214-4.png" crc="410546874" ref="contact"/>
     <file name="u2433-8.png" crc="4225178551" ref="contact"/>
     <file name="emailbutton-normal.jpg" crc="353514228" ref="contact"/>
     <file name="emailbutton-rollover.jpg" crc="273263697" ref="contact"/>
@@ -309,7 +309,7 @@
   </folder>
   <file name="index.html" crc="4262589312" mt="1430460210274" redirect="true"/>
   <file name="graphic-design.html" crc="4054007997" mt="1430460241725" redirect="true"/>
-  <file name="contact.html" crc="58738712" mt="1430459490233" redirect="true"/>
+  <file name="contact.html" crc="140064058" mt="1430460462296" redirect="true"/>
   <file name="pixar-brochure.html" crc="92144151" mt="1430459490233" redirect="true"/>
   <file name="illustration.html" crc="4117134440" mt="1430460279004" redirect="true"/>
   <file name="pure-pull.html" crc="4221853779" mt="1430459490233" redirect="true"/>
