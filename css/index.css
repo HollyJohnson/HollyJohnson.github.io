@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000015;
-	background-color: #C0E4E9;
+	color: #000019;
+	background-color: #692EFF;
 }
 
 .html
@@ -1360,6 +1360,16 @@
 	min-height: 0px;
 	margin: 0px;
 	background: transparent url("../images/digitalportfoliobutton-mouse%20down.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1070.MuseLinkActive
+{
+	width: 1440px;
+	height: 174px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/digitalportfoliobutton-active.jpg") no-repeat left top;
 	background-size: contain;
 }
 

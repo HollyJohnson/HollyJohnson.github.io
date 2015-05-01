@@ -1,7 +1,7 @@
 .version.illustration /* version checker */
 {
-	color: #000000;
-	background-color: #A68980;
+	color: #0000F0;
+	background-color: #E00340;
 }
 
 .html
@@ -700,6 +700,16 @@
 	background-size: contain;
 }
 
+#u1987.MuseLinkActive
+{
+	width: 1440px;
+	height: 174px;
+	min-height: 0px;
+	margin: 80px 0px 0px 1px;
+	background: #FA2121 url("../images/resumebutton-active.jpg") no-repeat left top;
+	background-size: contain;
+}
+
 #u1986
 {
 	z-index: 36;
@@ -727,6 +737,16 @@
 	min-height: 0px;
 	margin: 0px;
 	background: transparent url("../images/digitalportfoliobutton-mouse%20down.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1986.MuseLinkActive
+{
+	width: 1440px;
+	height: 174px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/digitalportfoliobutton-active.jpg") no-repeat left top;
 	background-size: contain;
 }
 

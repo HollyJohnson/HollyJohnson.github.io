@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000000;
-	background-color: #D34C3F;
+	color: #00001D;
+	background-color: #A514E3;
 }
 
 .html
@@ -407,7 +407,7 @@
 	height: 68px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/digitalportfoliobutton-active.jpg") no-repeat left top;
+	background: transparent url("../images/digitalportfoliobutton-active2.jpg") no-repeat left top;
 	background-size: contain;
 }
 
