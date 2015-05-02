@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00001D;
-	background-color: #A514E3;
+	color: #0000FC;
+	background-color: #45EADF;
 }
 
 .html
@@ -274,7 +274,7 @@
 	z-index: 27;
 	display: block;
 	vertical-align: top;
-	margin-left: 454px;
+	margin-left: 413px;
 	margin-top: 91px;
 	position: relative;
 }
@@ -282,7 +282,7 @@
 #pu3056
 {
 	width: 0.01px;
-	margin-left: 140px;
+	margin-left: 106px;
 	margin-top: 65px;
 }
 
